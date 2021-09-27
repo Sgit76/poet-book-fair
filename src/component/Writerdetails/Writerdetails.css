@@ -1,0 +1,36 @@
+.writer-dtails{
+    background-color: rgb(81, 132, 228);
+    border: 2px solid blue;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px #888888;
+}
+
+.writer-dtails p{
+    text-align: left;
+    font-weight: 600;
+    
+}
+
+.writer-dtails img {
+    border-radius: 25%;
+    text-align: center;
+  }
+
+  .btn-reguler{
+    background-color: ghostwhite;
+    width: 150px;
+    height: 30px;
+    border: 1px solid gray;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px #888888;
+    font-size: 15px;
+  }
+
+  .social{
+      color: white;
+      margin-top: 5px;
+      padding:5px;
+      font-size: 20px;
+  }

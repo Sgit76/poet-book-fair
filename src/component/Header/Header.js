@@ -1,6 +1,7 @@
 import React from 'react';
 import './Header.css';
 const Header = () => {
+
     return (
         <div className="header-element">
             <h2>Rare books collection fair - 2021</h2>
@@ -10,7 +11,7 @@ const Header = () => {
                 <b>Place:</b> Public Library , Shahabag , Dhaka.
             </p>
             <hr/>
-            <h4>Total collection of books:</h4>
+            <h4>Total collection of books: 237 Pieces</h4>
         </div>
     );
 };
