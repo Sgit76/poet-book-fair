@@ -1,12 +1,12 @@
 import './App.css';
-import Writers from './component/Writers/Writers';
 import Header from './component/Header/Header';
+import Writer from './component/Writer/Writer';
 
 function App() {
   return (
     <div className="App">
       <Header></Header>
-      <Writers></Writers>
+     <Writer></Writer>
     </div>
   );
 }
