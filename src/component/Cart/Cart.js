@@ -12,6 +12,7 @@ const Cart = (props) => {
             <h2>Details</h2>
             <h5>Total Booked: {cart.length}</h5>
             <p>Total Price: {total}</p>
+            <p>Book Name: {props.book}</p>
         </div>
     );
 };

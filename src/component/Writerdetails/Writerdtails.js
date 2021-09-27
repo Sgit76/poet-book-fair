@@ -20,10 +20,10 @@ const Writerdtails = (props) => {
                 className="btn-reguler"><FontAwesomeIcon icon={faCartPlus} /> Booking Books</button>
             <br/>
             <span>
-                <i class="fab fa-facebook-square social"></i>
-                <i class="fab fa-twitter-square social"></i>
-                <i class="fab fa-google-plus-g social"></i>
-                <i class="fab fa-linkedin social"></i>
+                <i className="fab fa-facebook-square social"></i>
+                <i className="fab fa-twitter-square social"></i>
+                <i className="fab fa-google-plus-g social"></i>
+                <i className="fab fa-linkedin social"></i>
             </span>
         </div>
     );
