@@ -1,0 +1,13 @@
+.header-element{
+    background-color: rgb(81, 132, 228);
+    margin: 10px;
+    border: 2px solid blue;
+    padding: 10px;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    color: white;
+}
+.header-element p{
+    font-size: 20px;
+    text-align:center;
+}
